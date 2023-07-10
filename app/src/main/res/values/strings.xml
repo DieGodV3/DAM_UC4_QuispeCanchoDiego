@@ -4,4 +4,8 @@
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_misnotas">Mis Notas</string>
+    <string name="title_micuenta">MiCuenta</string>
+    <string name="title_mi_cuenta">Mi Cuenta</string>
+    <string name="title_favoritas">Favoritas</string>
 </resources>
